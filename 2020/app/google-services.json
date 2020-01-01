@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "702397873610",
+    "firebase_url": "https://test-8dad5.firebaseio.com",
+    "project_id": "test-8dad5",
+    "storage_bucket": "test-8dad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702397873610:android:28433dc9800b300a88e333",
+        "android_client_info": {
+          "package_name": "student.rachel.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOr-T1Pk-AwA__jjB3mSSR2x3_bL_Cks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702397873610:android:7ae6f6c1a00e809188e333",
+        "android_client_info": {
+          "package_name": "student.rachel.firebase2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOr-T1Pk-AwA__jjB3mSSR2x3_bL_Cks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702397873610:android:bd5e97a2f47bb0f488e333",
+        "android_client_info": {
+          "package_name": "students.jimmy.firebaserachel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOr-T1Pk-AwA__jjB3mSSR2x3_bL_Cks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

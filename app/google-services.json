@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "354862637729",
-    "firebase_url": "https://new-firebase-24fd0.firebaseio.com",
-    "project_id": "new-firebase-24fd0",
-    "storage_bucket": "new-firebase-24fd0.appspot.com"
+    "project_number": "702397873610",
+    "firebase_url": "https://test-8dad5.firebaseio.com",
+    "project_id": "test-8dad5",
+    "storage_bucket": "test-8dad5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:354862637729:android:fa80f4f7a8b61a308c06e0",
+        "mobilesdk_app_id": "1:702397873610:android:28433dc9800b300a88e333",
         "android_client_info": {
           "package_name": "student.rachel.firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "354862637729-cnjhu9ctfeigdj60003jmneagn08gf3k.apps.googleusercontent.com",
+          "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFk3io_R7YNbXPrJppwpFWl0Mmx1Bd3W0"
+          "current_key": "AIzaSyCwOr-T1Pk-AwA__jjB3mSSR2x3_bL_Cks"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "354862637729-cnjhu9ctfeigdj60003jmneagn08gf3k.apps.googleusercontent.com",
+              "client_id": "702397873610-dhetjo433hrar4kjojip47jeap0lf785.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
